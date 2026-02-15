@@ -1,0 +1,1275 @@
+ExScore,Attd,HrsStd,PrevSco,ParInv,Acc2Rs,TutSes,FamInc,ParEdLev,MotLev,PerInf
+70,92,19,65,Medium,Medium,3,Medium,College,Medium,Neutral
+71,88,19,89,Medium,Medium,3,Medium,Postgraduate,Medium,Positive
+67,84,29,68,Medium,Low,1,Low,High School,Low,Neutral
+66,78,25,50,Low,High,1,High,High School,Medium,Negative
+72,98,23,71,Medium,Medium,0,High,High School,Medium,Positive
+65,78,10,74,Medium,High,1,Low,Postgraduate,Medium,Neutral
+65,70,22,82,Low,Medium,1,Low,High School,Medium,Neutral
+67,80,15,91,Medium,Medium,3,Low,College,Low,Positive
+66,74,20,89,Medium,High,1,Medium,College,Low,Negative
+71,83,22,94,High,High,0,High,College,Medium,Neutral
+64,66,18,51,High,High,2,Low,College,Low,Neutral
+64,65,21,91,Medium,Low,2,Medium,High School,Low,Positive
+63,72,12,84,Low,Medium,1,Low,High School,Medium,Positive
+68,98,11,82,Medium,Medium,1,Medium,Postgraduate,Low,Positive
+64,68,18,72,High,Medium,0,Medium,College,Medium,Neutral
+67,86,16,63,Low,Medium,2,Medium,High School,Medium,Positive
+62,65,19,66,Medium,Medium,0,Low,High School,Low,Positive
+68,88,13,88,Low,High,2,Low,Postgraduate,High,Negative
+71,98,25,56,Low,High,0,Medium,Postgraduate,Medium,Neutral
+69,98,22,69,Medium,High,1,Low,High School,Low,Negative
+64,72,21,57,Medium,Medium,1,High,College,Medium,Neutral
+60,61,8,54,Medium,Medium,1,High,College,Medium,Positive
+63,70,26,75,Medium,Low,1,Medium,High School,Medium,Neutral
+68,91,11,94,Medium,Medium,3,Medium,College,Medium,Neutral
+62,64,22,98,Low,Medium,1,Medium,High School,Low,Negative
+68,81,22,77,Medium,Medium,2,Medium,Postgraduate,Low,Positive
+66,69,20,73,High,High,2,Low,High School,Medium,Positive
+63,60,20,82,Low,High,2,Low,High School,High,Positive
+71,89,28,79,Low,High,0,Low,College,High,Positive
+69,98,14,76,Medium,Medium,0,Medium,College,Medium,Positive
+67,78,21,55,Medium,Medium,1,High,College,Medium,Positive
+68,87,25,52,Medium,Low,1,Low,High School,High,Positive
+65,85,13,89,High,Medium,0,High,High School,Medium,Neutral
+70,87,22,80,High,High,2,Low,High School,Low,Negative
+66,77,15,94,Medium,Medium,0,High,College,Low,Positive
+66,67,15,86,Medium,Medium,1,High,Postgraduate,High,Positive
+70,96,29,55,Medium,Medium,0,Medium,Postgraduate,Low,Neutral
+65,76,24,69,Low,High,2,Medium,High School,Low,Neutral
+64,63,24,57,Medium,Low,1,Low,College,Medium,Neutral
+72,87,23,91,High,High,0,High,High School,High,Positive
+67,71,17,90,Medium,Medium,5,Medium,Postgraduate,Medium,Positive
+71,91,25,72,Medium,Medium,2,Medium,Postgraduate,Low,Positive
+70,95,21,62,Medium,Medium,1,Medium,High School,High,Positive
+67,79,21,66,Medium,High,2,Low,College,Low,Negative
+64,90,12,54,Medium,Low,1,High,High School,Medium,Neutral
+66,81,23,54,Low,Medium,1,Low,College,Medium,Neutral
+68,87,15,52,Medium,High,2,Low,College,Medium,Positive
+65,66,24,81,High,Low,1,Medium,High School,High,Neutral
+69,100,16,63,High,Low,2,Low,High School,High,Negative
+67,80,20,94,Medium,High,0,Low,Postgraduate,Medium,Positive
+70,94,16,76,High,High,0,Low,High School,Medium,Neutral
+67,87,25,74,Medium,Low,0,Medium,High School,Low,Neutral
+67,92,18,54,Low,Medium,1,Medium,High School,Medium,Positive
+64,78,16,83,Medium,High,0,Low,College,Medium,Neutral
+66,78,17,70,Medium,High,2,Low,High School,Medium,Positive
+70,78,28,73,High,Medium,2,Medium,College,High,Neutral
+65,64,16,65,High,Low,3,Medium,Postgraduate,Medium,Positive
+63,68,14,65,High,Medium,1,High,College,Medium,Neutral
+66,75,18,95,Low,High,1,Low,College,Medium,Neutral
+63,68,11,80,Medium,Medium,2,Medium,College,Medium,Positive
+67,82,14,94,Medium,High,2,Low,College,Low,Negative
+66,67,16,89,Medium,High,3,Low,College,High,Positive
+67,88,24,86,Low,Medium,0,Low,College,Low,Negative
+70,84,25,84,Medium,Low,2,Medium,High School,Low,Positive
+65,68,24,74,Medium,Medium,1,Medium,High School,Medium,Neutral
+66,71,24,81,Medium,Medium,0,Low,High School,Medium,Positive
+67,84,21,75,Medium,Medium,1,High,College,Low,Positive
+71,99,28,61,Medium,Medium,1,Low,High School,Medium,Positive
+67,84,16,86,Medium,High,1,Low,High School,Medium,Neutral
+67,71,28,69,Medium,Medium,1,Medium,College,High,Neutral
+69,80,20,81,Low,High,3,Medium,Postgraduate,Medium,Negative
+68,63,22,85,Medium,High,4,High,College,Medium,Negative
+68,94,13,91,Medium,Medium,3,Low,High School,Low,Neutral
+65,69,18,62,High,High,3,Medium,High School,Low,Positive
+71,74,22,73,High,High,3,High,Postgraduate,Low,Positive
+61,67,15,74,Medium,Medium,0,Low,College,Medium,Negative
+60,63,12,69,Medium,High,0,Medium,College,Low,Negative
+67,80,14,81,High,Medium,1,Low,Postgraduate,Medium,Positive
+64,66,20,90,Medium,Medium,0,Medium,College,High,Neutral
+65,64,18,83,Medium,Medium,2,Low,College,High,Positive
+63,67,22,86,Low,Medium,1,Low,High School,Low,Positive
+67,80,15,90,Low,High,4,Low,College,Medium,Positive
+72,81,29,68,High,Medium,2,Medium,Postgraduate,Medium,Neutral
+70,92,25,77,Medium,Medium,0,Low,High School,Medium,Positive
+72,76,33,92,Medium,Medium,1,High,Postgraduate,Low,Positive
+64,67,15,89,High,Medium,0,High,High School,Low,Neutral
+72,91,26,79,High,Medium,1,Low,High School,Medium,Neutral
+68,83,27,60,High,Low,0,High,College,Medium,Neutral
+67,96,10,80,High,High,0,Medium,High School,Medium,Neutral
+67,79,23,81,Medium,Medium,1,Medium,High School,Medium,Neutral
+64,79,11,81,Medium,Medium,1,High,High School,Medium,Neutral
+73,100,28,72,High,Low,1,Low,Postgraduate,Medium,Negative
+68,94,16,93,Medium,Medium,1,Low,Postgraduate,Low,Negative
+66,74,26,89,Low,Low,3,High,High School,Low,Negative
+70,86,24,59,High,High,1,Low,High School,Medium,Positive
+72,95,29,64,Medium,Low,1,Medium,High School,Medium,Positive
+62,73,12,60,High,Medium,1,Low,High School,Medium,Negative
+66,74,22,56,Medium,Low,4,Medium,Postgraduate,Low,Negative
+61,62,14,65,High,High,3,Low,High School,Low,Negative
+64,70,14,54,High,Medium,3,Medium,College,Medium,Positive
+72,95,23,86,Medium,Medium,3,Low,Postgraduate,Medium,Positive
+68,89,15,71,Medium,Medium,1,Medium,High School,Medium,Positive
+66,78,17,98,Medium,Medium,2,Medium,High School,Low,Positive
+67,65,19,91,Medium,High,1,Medium,College,Medium,Positive
+64,63,25,69,High,Medium,0,Low,High School,Medium,Negative
+72,85,28,98,Medium,High,2,Low,High School,Medium,Positive
+69,74,27,54,Medium,High,3,Medium,College,Medium,Neutral
+63,87,10,83,Medium,Low,0,Low,High School,Medium,Positive
+68,97,15,67,Low,Medium,1,Low,College,Medium,Neutral
+63,65,11,78,Medium,High,2,Low,Postgraduate,Medium,Neutral
+67,88,23,59,Low,Medium,1,Medium,High School,Medium,Negative
+70,89,14,73,High,High,2,Medium,College,Medium,Negative
+64,66,17,64,High,High,0,Medium,College,Low,Neutral
+59,63,15,55,Medium,Low,0,Medium,College,Low,Neutral
+63,79,9,90,Medium,Low,1,High,High School,High,Neutral
+68,78,22,91,Medium,Medium,0,Medium,Postgraduate,Low,Negative
+61,62,10,68,Medium,Low,3,Medium,Postgraduate,High,Neutral
+64,66,16,87,Low,Medium,3,Medium,High School,High,Positive
+69,84,20,57,Medium,High,2,Medium,High School,High,Positive
+71,86,15,97,Medium,High,4,High,High School,Medium,Positive
+68,96,19,95,Medium,Low,2,Medium,High School,Low,Neutral
+70,97,17,88,Medium,High,0,Medium,High School,Medium,Positive
+68,78,22,70,Medium,High,2,Low,College,Medium,Positive
+69,84,21,90,High,High,2,Medium,High School,Medium,Neutral
+67,73,17,90,High,Medium,1,Low,High School,High,Positive
+70,88,17,94,Medium,Medium,5,Medium,College,Medium,Neutral
+64,70,25,61,Low,Medium,3,Low,College,Low,Positive
+70,79,28,82,High,Medium,0,Medium,High School,Medium,Positive
+72,89,22,97,Medium,High,2,Medium,High School,Medium,Neutral
+74,85,35,73,Medium,High,1,High,High School,High,Negative
+65,72,21,60,High,Medium,0,Low,Postgraduate,Low,Neutral
+65,75,23,73,Low,High,1,Low,High School,Low,Positive
+67,72,17,74,Medium,High,2,High,Postgraduate,Low,Positive
+63,81,14,73,Medium,Medium,1,High,High School,Low,Positive
+64,74,18,56,Medium,Medium,1,Medium,College,Medium,Positive
+66,75,18,88,Medium,Medium,2,Medium,Postgraduate,Low,Negative
+62,70,13,56,Medium,Medium,2,Medium,High School,Medium,Neutral
+68,76,20,87,High,High,1,Low,Postgraduate,Low,Negative
+65,82,17,88,Medium,Low,2,Low,Postgraduate,Low,Neutral
+66,94,8,89,High,Low,0,Medium,High School,High,Neutral
+67,76,18,79,High,High,1,Medium,Postgraduate,Medium,Positive
+60,80,12,71,Low,Low,1,Low,High School,High,Positive
+72,80,31,57,High,High,1,Medium,High School,Low,Positive
+70,65,28,64,Medium,Medium,6,Medium,Postgraduate,Medium,Neutral
+64,74,18,67,Medium,Low,2,Low,High School,High,Neutral
+66,79,27,65,Medium,Low,0,Medium,College,Low,Negative
+70,90,24,65,Medium,Medium,4,Low,High School,Medium,Neutral
+67,69,26,61,Medium,Medium,1,High,College,Medium,Positive
+62,77,17,67,Low,Medium,0,Low,High School,Low,Neutral
+66,63,31,74,Low,High,3,Medium,College,Low,Negative
+69,75,30,73,Medium,Medium,1,Medium,College,High,Negative
+67,83,21,75,Medium,Medium,1,Low,High School,High,Neutral
+70,92,19,85,Medium,Medium,1,Medium,High School,Medium,Neutral
+64,66,21,63,Medium,Medium,0,High,High School,Medium,Neutral
+69,89,20,95,Low,Medium,3,Low,High School,Medium,Positive
+72,98,22,69,Medium,Low,4,High,High School,Medium,Positive
+63,82,12,79,Low,Medium,0,Low,College,High,Positive
+72,99,22,71,Medium,Medium,0,Medium,College,High,Neutral
+70,84,26,62,Low,High,3,High,High School,Medium,Positive
+60,70,9,78,Medium,Medium,1,Medium,High School,Low,Neutral
+65,71,20,87,Medium,Low,1,Medium,High School,High,Negative
+71,76,36,96,Medium,Medium,1,Low,College,Medium,Neutral
+72,86,16,99,High,High,4,Low,College,Medium,Neutral
+69,94,12,61,Low,High,3,High,College,Medium,Neutral
+62,63,24,59,High,Medium,1,Low,High School,Low,Neutral
+67,77,23,96,Low,Medium,1,High,College,Medium,Neutral
+72,98,20,75,Low,Medium,4,Medium,College,High,Positive
+60,61,17,58,Low,Low,1,Medium,High School,Medium,Neutral
+69,97,21,53,Medium,Medium,0,High,High School,Medium,Neutral
+66,79,21,64,High,Medium,0,Low,College,Low,Negative
+68,92,20,86,Medium,Low,0,Medium,Postgraduate,Low,Neutral
+66,84,14,82,Medium,Medium,3,Low,College,Medium,Positive
+64,81,14,61,High,Medium,0,Low,High School,Low,Positive
+64,79,20,74,Medium,Low,2,Low,High School,Low,Positive
+64,75,23,64,Medium,Medium,1,Low,High School,High,Negative
+66,73,16,96,Low,High,1,Medium,High School,Medium,Positive
+71,80,29,52,Medium,High,4,Low,High School,Medium,Positive
+64,80,15,56,High,Low,3,Medium,High School,High,Neutral
+64,68,17,65,High,Medium,0,Medium,High School,High,Positive
+68,72,24,88,High,Low,3,Low,High School,High,Positive
+64,85,11,92,Medium,Low,0,Medium,College,Low,Neutral
+68,72,31,98,Medium,Medium,0,Low,College,High,Neutral
+66,78,19,74,Medium,Medium,2,Low,High School,Low,Positive
+67,63,27,98,High,Medium,1,Low,High School,Medium,Positive
+71,77,25,85,High,High,2,Medium,College,Medium,Positive
+72,96,20,90,High,Medium,3,Low,College,Medium,Neutral
+69,82,27,62,Medium,High,1,Low,High School,Low,Neutral
+68,78,24,91,Medium,Medium,0,High,Postgraduate,Low,Negative
+65,85,11,57,High,Low,0,Medium,High School,High,Neutral
+71,99,16,88,Low,High,2,Low,Postgraduate,High,Neutral
+70,90,22,75,High,High,1,Low,College,High,Neutral
+66,67,31,92,Medium,Low,2,Medium,High School,High,Negative
+67,93,16,51,Medium,Low,3,Low,College,Medium,Neutral
+66,77,25,71,Low,Medium,0,Medium,High School,Medium,Negative
+61,70,13,78,High,Medium,1,Low,High School,Medium,Negative
+66,76,25,88,Medium,Low,1,Medium,College,Low,Negative
+67,75,24,98,Low,Medium,1,Low,High School,High,Positive
+63,61,17,82,Low,Medium,0,Medium,Postgraduate,High,Neutral
+63,72,16,66,Medium,Medium,0,Low,College,Low,Positive
+68,64,33,76,Medium,Low,2,High,High School,Low,Neutral
+63,71,21,55,Medium,Medium,1,Medium,High School,Low,Negative
+64,81,14,64,Medium,High,2,High,High School,Low,Neutral
+66,72,25,59,Low,High,2,Low,High School,Medium,Negative
+63,67,16,98,Low,High,0,High,High School,Medium,Negative
+70,99,20,75,Medium,Medium,2,Low,Postgraduate,Medium,Negative
+61,68,10,96,Low,Medium,1,High,College,Low,Neutral
+69,94,18,56,High,Medium,1,Low,Postgraduate,Low,Positive
+65,79,12,69,Low,Medium,2,Low,Postgraduate,Medium,Neutral
+67,96,17,97,Medium,Low,0,Medium,High School,Low,Negative
+72,97,22,88,Medium,Medium,1,Low,College,High,Positive
+75,99,26,91,Low,High,2,High,Postgraduate,High,Neutral
+63,71,18,80,Low,Low,1,Medium,Postgraduate,Medium,Neutral
+70,74,33,64,Medium,Medium,2,Medium,Postgraduate,Medium,Neutral
+70,89,21,87,Low,Medium,3,Medium,College,Low,Positive
+68,82,25,68,High,Low,1,Low,College,Medium,Neutral
+63,72,21,78,Medium,High,0,High,High School,Low,Neutral
+69,63,24,92,Medium,Medium,4,Medium,Postgraduate,Medium,Positive
+67,79,22,76,Medium,Medium,1,Low,High School,Medium,Positive
+67,89,15,98,High,Low,0,Low,College,Low,Positive
+67,81,20,56,High,High,1,Medium,High School,Low,Positive
+66,77,19,97,High,Low,4,Low,High School,Low,Negative
+75,98,34,79,Medium,High,1,Low,College,Medium,Neutral
+67,89,12,63,Low,Medium,4,Low,College,Medium,Neutral
+69,64,28,84,Medium,High,2,Medium,Postgraduate,Low,Positive
+65,80,23,72,Low,Medium,0,Low,High School,Low,Negative
+64,63,22,93,High,Medium,0,Medium,High School,High,Neutral
+66,75,15,65,Medium,High,1,Low,Postgraduate,High,Positive
+69,93,13,75,Medium,High,1,Medium,High School,Medium,Positive
+67,62,26,75,High,High,2,Medium,College,Medium,Neutral
+61,62,11,87,Low,High,3,Low,High School,High,Positive
+68,73,26,68,Medium,Medium,4,Medium,High School,High,Neutral
+66,82,12,77,High,Medium,0,Medium,College,High,Neutral
+66,67,20,67,High,High,1,Medium,College,High,Positive
+68,91,16,91,Medium,Medium,1,Medium,High School,Medium,Neutral
+71,93,16,82,Medium,Medium,5,High,High School,Low,Positive
+68,88,20,96,Low,Low,0,High,Postgraduate,Low,Positive
+67,75,15,91,Medium,High,0,Medium,College,High,Neutral
+69,84,30,51,High,Medium,1,Low,Postgraduate,Low,Positive
+63,66,18,86,Medium,Medium,0,High,High School,Medium,Positive
+68,87,14,55,Medium,Medium,2,Low,Postgraduate,Medium,Positive
+65,71,16,69,Medium,High,1,Low,Postgraduate,Medium,Neutral
+61,61,11,98,Medium,Medium,0,Medium,High School,High,Negative
+68,81,23,85,Medium,Medium,0,Medium,High School,Low,Positive
+65,84,16,75,Low,Medium,2,Medium,High School,High,Negative
+63,69,14,93,Medium,High,2,Low,High School,Low,Neutral
+70,98,19,62,High,Low,1,Low,High School,High,Neutral
+63,62,18,91,Low,High,4,Low,High School,High,Neutral
+68,72,27,79,Low,Low,2,High,Postgraduate,Medium,Positive
+67,90,21,89,High,Low,1,Low,High School,Low,Neutral
+68,62,34,89,High,Low,3,Low,College,Low,Neutral
+67,76,15,81,Medium,High,2,Low,Postgraduate,Medium,Neutral
+67,98,9,92,Medium,Medium,0,Medium,High School,Medium,Neutral
+68,61,35,61,Medium,High,2,Medium,High School,Low,Positive
+67,82,20,79,Medium,Medium,1,Low,High School,Low,Positive
+67,74,16,68,High,High,2,Medium,College,Low,Neutral
+67,82,19,57,Medium,High,1,Medium,High School,Medium,Neutral
+63,68,20,80,Medium,Medium,0,Low,High School,Low,Neutral
+63,80,8,52,High,Low,2,Medium,High School,High,Positive
+67,71,19,96,High,High,2,Low,College,High,Neutral
+68,89,24,94,Medium,Low,2,Medium,High School,Low,Neutral
+69,89,19,66,Medium,High,1,Low,Postgraduate,Low,Positive
+72,99,18,67,Medium,Medium,5,Low,Postgraduate,Medium,Positive
+65,68,18,91,Low,Medium,1,Low,Postgraduate,High,Neutral
+64,67,18,51,High,Medium,0,Medium,College,Medium,Positive
+71,90,26,71,High,High,0,High,College,Low,Negative
+68,86,19,54,Medium,Low,1,High,Postgraduate,Low,Positive
+68,92,17,68,Medium,Medium,0,Medium,College,High,Positive
+61,61,11,90,Low,Medium,0,Medium,High School,High,Neutral
+64,68,17,66,Medium,High,1,High,High School,Medium,Negative
+66,69,19,67,Medium,Medium,4,High,Postgraduate,Medium,Positive
+69,85,16,91,Medium,High,0,Medium,Postgraduate,High,Neutral
+70,67,31,76,Low,High,2,Medium,College,Medium,Positive
+69,91,24,59,High,Low,0,Low,High School,Medium,Neutral
+65,76,16,88,Medium,Low,0,Low,Postgraduate,High,Positive
+66,82,18,50,High,Low,1,High,High School,Medium,Positive
+65,68,14,76,Medium,High,2,High,High School,Medium,Positive
+69,81,23,88,Medium,Medium,1,Low,Postgraduate,Low,Positive
+75,91,28,98,High,Medium,2,Low,Postgraduate,Low,Positive
+62,70,18,51,Medium,Medium,1,Low,College,Medium,Negative
+64,78,13,73,Medium,Medium,0,Medium,High School,Medium,Negative
+63,75,19,65,Medium,Medium,0,Low,High School,Low,Neutral
+63,74,18,67,Low,Medium,0,Low,High School,Low,Positive
+71,90,25,64,Medium,Medium,2,Medium,High School,Medium,Positive
+65,68,17,71,Medium,High,1,Medium,High School,Medium,Neutral
+67,80,19,100,Medium,Medium,0,Medium,High School,Medium,Neutral
+68,92,22,55,Low,High,1,Low,High School,Low,Positive
+72,81,30,76,Medium,High,0,High,Postgraduate,Medium,Positive
+72,96,27,71,Medium,High,0,Low,College,Low,Positive
+69,89,27,67,Medium,Low,2,Low,College,Medium,Neutral
+70,72,21,100,High,High,3,Low,College,Medium,Positive
+71,84,28,51,Medium,Medium,3,Medium,Postgraduate,Medium,Positive
+71,99,13,81,Medium,High,0,Medium,Postgraduate,Medium,Positive
+65,83,15,57,Medium,Medium,0,Medium,Postgraduate,Low,Positive
+66,95,17,85,Medium,Low,1,Low,College,Low,Negative
+67,63,30,76,Medium,Medium,1,Medium,Postgraduate,Medium,Neutral
+63,73,13,51,Medium,Medium,1,Low,Postgraduate,Medium,Positive
+68,81,16,79,Medium,High,2,Low,College,Medium,Positive
+70,71,30,95,High,Medium,1,Medium,College,High,Neutral
+68,89,24,60,Low,High,1,Low,High School,Medium,Neutral
+71,87,26,82,Medium,Medium,1,Low,Postgraduate,High,Negative
+60,61,13,84,Low,Medium,1,Medium,Postgraduate,High,Neutral
+59,66,16,52,Low,Medium,1,Medium,High School,Medium,Negative
+69,85,19,71,High,Medium,1,Medium,Postgraduate,Low,Positive
+63,60,17,86,High,Medium,0,Low,High School,Medium,Positive
+62,72,16,58,Medium,High,1,Medium,High School,Low,Negative
+73,90,27,53,High,Medium,1,Medium,Postgraduate,Medium,Positive
+69,86,15,77,High,Medium,0,Medium,Postgraduate,Medium,Positive
+65,71,15,69,High,High,2,Low,College,Low,Negative
+69,90,20,88,High,Low,3,Low,High School,Medium,Negative
+65,83,12,86,Low,Medium,1,High,College,Low,Negative
+65,62,20,94,High,Low,1,Medium,High School,High,Positive
+67,79,21,54,Medium,Low,3,Low,Postgraduate,High,Positive
+70,93,18,85,Medium,High,0,Low,High School,Medium,Positive
+69,98,15,80,High,Low,2,High,Postgraduate,Low,Negative
+67,72,23,69,Medium,Medium,2,High,High School,Low,Positive
+66,73,28,70,High,Medium,0,Low,College,Low,Negative
+68,79,16,71,High,High,2,Low,High School,Medium,Neutral
+63,65,17,62,Medium,Medium,2,Medium,High School,Medium,Positive
+67,75,18,100,Medium,Low,2,Low,High School,High,Positive
+64,67,25,64,Medium,High,0,Low,High School,Medium,Neutral
+69,91,17,66,Medium,Medium,3,Medium,College,Medium,Positive
+68,89,18,90,Medium,Low,1,High,Postgraduate,Low,Positive
+72,99,28,100,Low,Medium,0,Medium,High School,Low,Positive
+68,72,26,81,High,Medium,0,Medium,High School,High,Neutral
+70,83,27,66,Medium,Medium,3,Medium,College,Medium,Positive
+72,97,23,81,Low,High,2,Medium,High School,Low,Neutral
+66,78,14,80,High,High,1,Medium,High School,Low,Neutral
+67,73,23,78,High,High,0,High,High School,Low,Neutral
+73,90,29,94,High,Medium,1,Low,High School,Medium,Neutral
+71,97,22,79,Medium,Medium,2,Medium,High School,High,Positive
+65,72,22,80,Low,Low,2,Low,College,Medium,Neutral
+68,84,24,61,Medium,Medium,2,Medium,High School,Medium,Positive
+66,66,23,73,Medium,Low,2,High,College,High,Positive
+69,93,22,69,Medium,High,0,High,High School,High,Negative
+66,84,24,52,Low,Medium,0,Low,High School,Medium,Neutral
+71,89,31,70,Medium,Medium,2,Low,High School,Medium,Positive
+66,69,19,84,Medium,Medium,2,Medium,High School,Medium,Neutral
+72,90,31,61,High,High,0,Low,High School,Low,Positive
+70,96,20,57,High,High,1,Low,High School,Low,Neutral
+69,89,18,72,High,Medium,3,Medium,College,Low,Positive
+64,63,25,54,Low,Medium,3,Medium,High School,Medium,Positive
+69,87,30,59,Low,Medium,2,Medium,High School,Medium,Neutral
+64,69,19,72,Medium,High,1,Low,College,Medium,Neutral
+69,78,27,77,High,Low,0,Medium,Postgraduate,Medium,Neutral
+62,76,9,79,Medium,Medium,1,Low,High School,Medium,Neutral
+74,96,30,52,High,Medium,0,High,College,Medium,Positive
+65,77,15,95,Low,Medium,4,Low,High School,Low,Positive
+61,69,19,72,Medium,Low,1,Low,High School,Medium,Positive
+69,82,20,69,Medium,High,1,Medium,College,Low,Positive
+64,77,16,76,Low,High,1,Low,Postgraduate,Low,Neutral
+64,70,25,56,Medium,Medium,0,Low,High School,High,Positive
+70,89,28,71,Medium,Low,2,Low,College,Low,Neutral
+60,61,16,53,High,Medium,0,High,High School,Low,Positive
+62,67,21,52,Medium,High,3,Low,High School,Medium,Negative
+66,72,30,73,Medium,Low,0,High,High School,Medium,Neutral
+69,91,23,57,High,Low,2,Low,High School,Medium,Positive
+66,85,13,96,Low,Medium,1,Low,Postgraduate,Low,Positive
+67,70,22,53,Medium,High,3,Medium,High School,Medium,Positive
+64,61,16,85,Medium,High,2,Medium,High School,Medium,Positive
+68,81,19,100,High,Medium,1,Low,Postgraduate,Medium,Negative
+67,79,21,82,Low,High,1,High,High School,Medium,Negative
+69,91,28,73,Low,Medium,2,Medium,High School,Medium,Neutral
+64,82,16,75,Low,High,0,Low,Postgraduate,Medium,Negative
+68,73,26,53,High,Medium,3,Medium,High School,Low,Neutral
+65,61,22,76,Low,High,1,High,College,Medium,Positive
+74,97,28,88,Medium,Medium,2,Medium,High School,High,Neutral
+68,87,18,60,Medium,Low,2,Medium,High School,High,Positive
+67,62,28,88,High,Medium,0,Low,Postgraduate,Medium,Positive
+67,75,26,79,Medium,Low,2,High,College,Medium,Negative
+64,76,23,86,Low,Medium,1,Low,College,Low,Positive
+62,64,19,81,Medium,Medium,1,Medium,High School,High,Negative
+72,100,23,59,High,Low,2,Medium,High School,Medium,Positive
+65,70,9,81,High,Medium,1,High,Postgraduate,Medium,Neutral
+70,96,15,59,Medium,High,2,Medium,High School,High,Neutral
+70,99,8,83,Low,High,2,Medium,Postgraduate,High,Positive
+70,98,14,84,Medium,Medium,3,High,High School,Low,Neutral
+66,62,21,73,High,High,2,High,College,Medium,Negative
+67,82,13,56,High,Medium,2,Low,Postgraduate,High,Neutral
+67,69,23,59,Medium,Medium,3,High,Postgraduate,Medium,Neutral
+69,80,27,94,Low,Low,3,High,High School,High,Negative
+67,88,22,60,Medium,Medium,1,Low,High School,Low,Neutral
+63,64,22,60,Low,Medium,1,High,High School,Medium,Neutral
+70,77,28,54,High,Medium,1,High,Postgraduate,Low,Positive
+79,97,39,91,High,High,2,Low,High School,Medium,Positive
+73,81,26,87,Medium,High,2,High,Postgraduate,Medium,Neutral
+68,83,20,87,High,Medium,0,High,High School,Low,Neutral
+69,77,23,72,Medium,Medium,2,High,College,Medium,Negative
+68,85,27,63,Low,High,1,Low,College,Low,Negative
+72,95,24,92,High,Medium,2,Low,High School,Medium,Neutral
+70,95,21,87,Medium,Low,2,Medium,High School,Low,Neutral
+69,75,26,97,High,High,1,Low,High School,Medium,Neutral
+66,79,25,64,Medium,Medium,0,Low,College,Medium,Neutral
+73,91,23,89,High,Medium,3,Medium,Postgraduate,Medium,Negative
+71,88,25,63,High,Medium,2,High,High School,Medium,Positive
+69,95,19,85,Medium,Medium,2,Low,College,Medium,Negative
+66,86,15,90,Medium,Low,0,Medium,Postgraduate,Medium,Neutral
+64,80,20,77,Low,Low,0,Medium,High School,Low,Negative
+62,71,15,60,High,High,0,Low,High School,Medium,Negative
+67,69,28,99,Medium,High,0,High,High School,Low,Negative
+63,72,12,90,Medium,Low,0,High,Postgraduate,Medium,Positive
+68,73,23,50,High,High,1,Medium,College,Medium,Positive
+65,73,22,58,Medium,Low,4,Low,College,Medium,Positive
+69,79,21,99,High,Low,2,Low,High School,Medium,Positive
+72,96,15,84,Medium,High,3,Medium,Postgraduate,High,Positive
+66,75,27,57,Medium,Low,3,High,High School,Medium,Negative
+71,99,18,51,Medium,High,1,Medium,Postgraduate,Medium,Neutral
+73,93,22,79,High,Medium,2,Medium,Postgraduate,Medium,Positive
+70,81,27,97,Medium,Medium,1,Medium,College,Low,Neutral
+71,99,21,53,Medium,High,0,Medium,Postgraduate,Medium,Neutral
+67,83,20,51,Medium,Medium,2,Low,Postgraduate,Medium,Negative
+66,88,22,68,Medium,Medium,2,Medium,High School,Medium,Neutral
+66,70,13,75,High,High,1,High,Postgraduate,High,Positive
+62,61,17,63,High,Medium,1,Medium,College,Low,Positive
+63,81,14,71,Low,Medium,1,Low,Postgraduate,Low,Neutral
+65,71,19,57,Medium,Medium,2,Medium,High School,Medium,Positive
+67,65,34,62,Medium,Medium,0,Medium,High School,High,Negative
+65,86,20,53,Medium,Low,1,Low,High School,Medium,Negative
+66,77,18,62,Medium,Medium,2,High,College,Low,Neutral
+67,96,13,51,Medium,Medium,1,Low,Postgraduate,Medium,Positive
+67,83,19,56,Medium,High,1,Medium,College,Medium,Positive
+62,64,19,81,Low,Medium,0,Medium,High School,High,Neutral
+72,91,21,92,Medium,High,5,Low,High School,Medium,Negative
+66,80,14,88,Medium,Medium,1,Medium,High School,Medium,Neutral
+68,94,12,78,Medium,Medium,1,Medium,High School,Medium,Neutral
+72,98,20,69,High,Medium,2,High,College,High,Negative
+64,77,21,58,Medium,Low,0,Low,College,Medium,Negative
+68,94,18,53,Medium,Low,4,Medium,High School,Medium,Positive
+73,93,24,96,High,Medium,0,Medium,Postgraduate,Medium,Positive
+65,76,10,80,Medium,Medium,1,Low,Postgraduate,Medium,Positive
+68,63,23,94,Medium,Medium,2,Medium,Postgraduate,High,Neutral
+70,96,20,78,Medium,Medium,1,High,High School,Medium,Neutral
+66,66,23,90,Medium,High,2,Low,High School,Medium,Neutral
+65,68,12,98,Medium,High,1,Medium,High School,Medium,Neutral
+65,68,22,53,High,Medium,1,Medium,High School,High,Neutral
+70,86,17,74,High,High,1,Low,College,Medium,Neutral
+70,95,19,99,Low,High,0,Low,Postgraduate,Medium,Neutral
+67,67,26,71,Medium,Low,3,Low,Postgraduate,High,Neutral
+65,90,24,52,Medium,Low,0,Low,College,Low,Negative
+71,90,19,81,High,Low,4,High,College,Medium,Neutral
+69,96,25,72,Low,Medium,0,Low,High School,Low,Positive
+74,97,23,95,Medium,High,0,Medium,Postgraduate,Medium,Positive
+69,93,22,52,Medium,Medium,1,Low,College,Medium,Negative
+61,77,9,57,Medium,Medium,2,Medium,High School,Low,Negative
+63,66,13,90,High,Medium,2,Low,High School,Medium,Positive
+68,68,27,97,Medium,Medium,1,Medium,College,Low,Negative
+62,78,15,100,Low,Medium,0,Low,High School,Low,Negative
+70,98,18,65,Low,Medium,1,High,Postgraduate,Medium,Neutral
+75,95,32,58,Medium,High,2,Medium,High School,Medium,Positive
+72,99,24,92,High,Medium,2,High,High School,Low,Neutral
+70,75,25,57,Low,High,4,Low,College,High,Positive
+63,67,18,78,Medium,High,2,Medium,High School,Low,Negative
+71,85,25,94,Medium,Low,3,Medium,High School,Medium,Positive
+71,98,23,55,Medium,Low,3,High,High School,Medium,Neutral
+70,99,20,91,Low,Medium,2,Medium,High School,Medium,Negative
+64,71,13,98,Medium,Medium,0,Medium,College,Medium,Positive
+64,69,20,65,High,Medium,1,Low,High School,Medium,Neutral
+65,80,11,96,Medium,Medium,1,Low,High School,Low,Neutral
+65,67,20,59,High,High,1,Medium,College,Low,Negative
+66,85,16,79,Medium,Low,1,High,College,Low,Neutral
+71,91,17,84,High,Low,7,Low,College,Medium,Neutral
+65,79,15,79,Low,Medium,2,Low,College,Medium,Neutral
+68,69,24,81,Medium,High,3,Medium,High School,Low,Neutral
+66,68,18,76,Medium,Medium,2,High,Postgraduate,High,Neutral
+68,84,12,98,High,Medium,1,Low,High School,High,Positive
+61,67,17,63,Low,Medium,1,Low,College,High,Negative
+66,62,19,94,High,Medium,0,High,Postgraduate,Medium,Neutral
+69,88,14,66,Medium,Medium,4,Medium,High School,Medium,Positive
+67,97,11,60,Medium,High,0,Medium,High School,Medium,Positive
+63,60,14,91,Medium,Medium,1,Low,Postgraduate,Medium,Negative
+66,91,16,91,Medium,Low,2,Medium,High School,Low,Neutral
+67,93,17,76,High,Medium,0,Low,High School,Low,Negative
+65,74,25,65,Low,Medium,0,High,High School,High,Neutral
+76,93,29,74,High,High,3,Medium,High School,Medium,Positive
+59,63,13,88,Low,Medium,0,Low,High School,Medium,Negative
+73,99,26,67,Medium,Medium,4,Medium,High School,Medium,Positive
+67,84,12,71,High,High,2,Medium,College,Medium,Positive
+72,86,26,83,Medium,High,2,Low,High School,Medium,Positive
+62,65,19,54,Medium,High,0,Low,High School,Medium,Neutral
+72,98,20,89,Medium,Medium,3,High,College,High,Negative
+66,80,18,57,Medium,High,2,Low,Postgraduate,Medium,Positive
+67,94,17,76,Low,Low,3,Low,College,High,Neutral
+67,70,24,74,Medium,High,2,Medium,High School,Low,Negative
+68,94,15,77,Low,Low,1,High,College,Medium,Positive
+74,94,29,95,Low,High,1,Medium,High School,Medium,Positive
+69,96,21,50,Medium,Medium,1,Low,Postgraduate,Medium,Positive
+65,75,24,65,Low,Medium,0,Medium,College,Medium,Positive
+68,92,13,70,Medium,High,4,Low,High School,Low,Neutral
+70,93,24,62,Medium,High,1,Low,College,Medium,Neutral
+64,80,12,90,Medium,Low,3,Low,High School,Medium,Neutral
+71,90,29,95,Low,Medium,0,High,High School,Medium,Neutral
+68,81,12,86,High,Medium,2,Medium,Postgraduate,Medium,Negative
+72,83,32,92,Medium,Medium,1,High,High School,Low,Neutral
+66,71,15,69,High,Medium,3,Medium,Postgraduate,High,Positive
+67,96,17,50,Medium,Medium,1,Medium,High School,Low,Negative
+66,72,25,58,High,Medium,0,Low,College,Medium,Negative
+69,93,25,56,Medium,High,0,Low,High School,High,Neutral
+63,65,12,66,High,High,0,Medium,High School,Medium,Neutral
+66,79,21,84,Low,Medium,2,Medium,High School,Low,Neutral
+65,63,23,76,High,Medium,2,Medium,High School,Medium,Positive
+66,64,23,68,Medium,High,3,Low,High School,Low,Neutral
+73,84,32,68,Medium,High,1,Low,High School,Medium,Positive
+65,71,13,51,Medium,High,4,High,College,Low,Positive
+71,90,17,65,High,High,2,Low,Postgraduate,Medium,Positive
+68,91,18,63,Medium,Medium,1,Medium,College,Medium,Negative
+69,61,33,92,High,Medium,1,Medium,High School,Medium,Positive
+72,100,26,60,Low,Medium,2,Medium,High School,Medium,Positive
+60,67,14,68,Medium,Medium,1,Low,High School,Low,Neutral
+62,69,14,79,Medium,Low,1,High,Postgraduate,Medium,Negative
+64,76,14,71,High,Medium,1,Low,High School,Medium,Negative
+72,88,24,87,High,Medium,1,High,High School,Medium,Positive
+65,79,18,58,Low,Medium,3,Medium,High School,Medium,Negative
+75,96,36,96,Medium,Low,1,Low,College,Medium,Positive
+70,83,26,97,Medium,Medium,2,Low,College,Low,Negative
+66,76,22,83,High,Low,0,Low,College,Low,Positive
+72,87,27,91,High,Low,4,High,High School,Low,Neutral
+62,84,17,71,Low,Low,0,Medium,High School,Low,Negative
+68,79,13,92,High,High,3,Medium,High School,Medium,Neutral
+63,62,24,56,Medium,Medium,0,Medium,College,Medium,Positive
+68,88,22,62,Low,Medium,1,High,College,Medium,Negative
+68,79,22,63,High,Medium,1,Medium,High School,Medium,Neutral
+69,93,14,80,Medium,Medium,2,Low,Postgraduate,Low,Positive
+67,71,31,66,Low,High,3,Low,High School,Medium,Negative
+68,84,18,50,Medium,Low,4,High,Postgraduate,Medium,Negative
+69,97,23,55,Low,High,0,Medium,High School,Medium,Neutral
+68,75,25,63,Medium,Medium,3,High,High School,Low,Neutral
+66,76,21,64,Low,High,1,Medium,High School,Medium,Neutral
+66,67,23,98,Medium,Medium,4,Low,High School,Low,Neutral
+62,61,13,89,Medium,Medium,4,Low,High School,Low,Neutral
+63,73,11,67,Medium,Medium,3,Medium,Postgraduate,Medium,Positive
+65,71,24,65,High,Medium,1,Low,High School,Medium,Negative
+71,96,18,67,Medium,High,1,High,High School,Medium,Positive
+67,81,22,87,High,Medium,0,Low,High School,Low,Neutral
+87,71,11,55,Low,Medium,1,Low,College,Medium,Negative
+70,85,19,84,High,High,3,Medium,Postgraduate,Low,Negative
+71,89,22,89,High,High,0,Medium,High School,Medium,Neutral
+63,82,12,98,Low,Medium,0,Low,High School,Medium,Neutral
+67,78,24,94,High,Low,0,Low,High School,Low,Neutral
+71,91,23,97,High,Low,2,Low,College,Low,Neutral
+70,86,32,68,Medium,Medium,1,Medium,High School,Low,Negative
+63,68,17,57,High,Medium,2,Medium,High School,Medium,Neutral
+73,81,28,92,Medium,High,1,High,College,Medium,Positive
+67,78,17,66,High,Medium,2,Low,College,Medium,Positive
+68,68,30,59,Medium,High,3,Low,College,Medium,Positive
+66,76,22,59,Medium,Medium,1,Low,College,Medium,Positive
+71,87,23,79,Medium,Medium,2,Low,Postgraduate,High,Neutral
+71,88,22,78,High,High,0,Medium,High School,Medium,Positive
+65,61,20,80,High,Medium,1,Low,High School,Medium,Positive
+69,79,21,87,Medium,High,1,Low,Postgraduate,Medium,Neutral
+65,77,16,74,Medium,High,0,High,College,Medium,Neutral
+70,98,20,95,High,Low,1,Low,High School,Low,Positive
+64,70,19,63,High,High,1,Low,College,Medium,Neutral
+69,93,19,83,Low,Medium,1,Medium,High School,Medium,Positive
+64,63,23,84,Low,Medium,0,High,High School,High,Neutral
+74,96,17,88,High,High,4,Low,Postgraduate,Medium,Positive
+67,100,15,74,Medium,Low,2,Medium,High School,Medium,Negative
+65,87,9,82,High,Medium,0,Low,College,Medium,Negative
+66,68,22,87,Medium,Medium,2,Medium,Postgraduate,High,Neutral
+61,71,9,89,Low,High,0,Low,High School,Medium,Negative
+63,69,19,75,Medium,Low,2,Medium,High School,Medium,Negative
+74,96,31,65,High,High,0,Low,High School,High,Positive
+67,69,22,86,High,High,1,High,High School,Low,Positive
+65,61,22,77,High,Medium,1,Medium,Postgraduate,Low,Positive
+64,66,18,96,High,Medium,0,Low,High School,Medium,Neutral
+74,98,30,76,Medium,High,1,Low,College,High,Neutral
+64,84,11,81,High,Medium,1,Low,High School,Low,Negative
+70,67,27,94,High,High,0,High,College,High,Positive
+64,61,15,82,High,Low,2,Medium,Postgraduate,Medium,Positive
+72,89,20,82,High,Medium,2,High,College,Medium,Neutral
+65,87,14,61,Medium,High,0,Low,High School,Medium,Neutral
+59,64,7,70,Medium,High,4,Low,High School,High,Neutral
+68,70,21,93,High,Medium,1,Low,College,High,Neutral
+65,78,18,54,High,Medium,4,Low,College,Low,Neutral
+68,82,17,65,High,Medium,1,Medium,High School,Medium,Positive
+63,65,13,75,Medium,High,2,Medium,High School,Low,Neutral
+68,87,17,79,Medium,High,3,Low,High School,Medium,Neutral
+64,65,25,94,Medium,Low,1,Low,High School,Low,Positive
+65,62,31,51,Medium,Medium,2,Medium,College,Medium,Neutral
+65,63,28,91,Medium,Medium,1,Low,High School,Medium,Positive
+70,91,22,61,Medium,High,3,Low,Postgraduate,Medium,Neutral
+71,98,26,68,Low,High,1,Low,Postgraduate,Medium,Neutral
+61,69,15,52,Low,Medium,0,High,College,Medium,Neutral
+72,98,25,98,Low,Medium,1,Medium,Postgraduate,Medium,Negative
+70,94,19,91,Medium,High,1,Low,High School,Medium,Negative
+65,67,25,65,High,Medium,1,Low,High School,Medium,Negative
+64,84,14,61,Low,High,1,High,College,Low,Positive
+67,90,9,65,High,Medium,3,Medium,High School,Low,Positive
+70,84,22,90,Medium,Medium,2,Medium,College,Medium,Positive
+71,77,28,73,High,High,3,Medium,College,Low,Negative
+72,99,15,73,Medium,High,1,High,Postgraduate,High,Negative
+64,74,23,61,Low,Low,0,Medium,Postgraduate,Low,Positive
+71,97,22,75,Low,Medium,1,Medium,Postgraduate,Medium,Positive
+70,88,19,94,Medium,High,1,Medium,High School,High,Neutral
+66,86,18,64,Low,Low,3,Low,High School,Low,Positive
+64,66,19,58,Medium,Low,5,Medium,College,Medium,Positive
+63,77,12,90,Medium,Low,2,Medium,High School,Medium,Neutral
+71,97,21,99,Medium,Low,1,High,Postgraduate,Medium,Negative
+67,90,17,56,Medium,Medium,0,Medium,College,Low,Neutral
+68,93,20,82,Medium,Medium,1,Medium,High School,Low,Positive
+61,64,18,64,Low,Medium,4,Low,High School,Medium,Negative
+61,60,14,67,Low,Low,3,High,High School,Low,Positive
+67,79,21,88,Medium,Low,2,High,High School,Low,Neutral
+72,96,23,93,Low,High,5,Low,High School,Low,Negative
+71,91,27,67,Low,High,1,High,High School,Medium,Neutral
+64,78,15,81,Medium,Medium,0,Medium,High School,Medium,Neutral
+70,96,17,77,Medium,Medium,1,Medium,Postgraduate,Medium,Neutral
+68,85,18,69,Medium,High,2,Low,High School,Medium,Positive
+65,76,17,100,High,Medium,0,High,High School,Low,Neutral
+69,99,11,52,High,Medium,0,High,College,Medium,Neutral
+69,94,19,97,Medium,Medium,0,Medium,High School,Medium,Neutral
+66,84,9,60,High,High,1,Low,College,High,Positive
+69,98,16,52,High,Low,3,Low,College,Medium,Neutral
+67,77,30,70,Medium,Low,0,Medium,High School,Medium,Neutral
+73,95,18,96,Medium,High,3,Medium,Postgraduate,Medium,Negative
+68,82,22,58,Medium,High,0,Medium,College,Medium,Negative
+69,94,22,75,Medium,Medium,0,Low,High School,Low,Neutral
+67,75,18,83,High,Medium,2,Low,Postgraduate,Medium,Positive
+66,94,14,51,Medium,Medium,0,Medium,College,Medium,Neutral
+61,65,16,68,Medium,Low,1,High,High School,Medium,Neutral
+70,88,15,95,High,High,2,Low,High School,Medium,Negative
+73,98,22,93,Medium,Medium,4,Low,High School,Medium,Neutral
+65,65,19,96,Medium,Low,2,Medium,Postgraduate,Medium,Neutral
+60,60,11,59,Medium,High,2,Low,College,High,Positive
+68,71,26,99,Low,High,1,Medium,College,Medium,Positive
+62,63,13,55,High,Medium,0,Medium,Postgraduate,High,Positive
+63,86,13,58,Low,Medium,0,Medium,High School,Medium,Positive
+72,87,25,83,High,Medium,0,Medium,College,Medium,Positive
+65,86,11,75,Medium,Medium,1,Medium,Postgraduate,Medium,Neutral
+70,87,23,81,High,Low,5,Medium,High School,Low,Neutral
+65,69,25,63,Low,Medium,1,High,High School,Medium,Neutral
+65,93,13,62,Medium,High,0,Low,High School,Low,Neutral
+76,98,30,83,High,High,1,Low,High School,High,Neutral
+74,90,26,91,High,High,1,High,High School,Medium,Neutral
+68,85,23,91,Medium,Medium,1,Low,High School,Low,Neutral
+60,76,9,78,Low,High,0,Medium,Postgraduate,Low,Negative
+73,93,22,96,High,Medium,1,High,College,High,Positive
+61,67,27,54,Low,Medium,0,Medium,High School,Medium,Negative
+68,75,21,83,High,High,1,Medium,College,Low,Positive
+66,61,23,85,Medium,High,1,Medium,High School,Medium,Positive
+61,72,18,61,Low,Low,1,Medium,College,Low,Negative
+68,81,16,85,Medium,High,2,Low,College,High,Positive
+69,89,14,82,High,Medium,2,Medium,College,High,Negative
+65,66,18,62,High,High,2,High,High School,Medium,Neutral
+72,88,16,94,Medium,High,4,Medium,College,High,Positive
+64,65,25,64,Low,Medium,1,Medium,College,Medium,Negative
+64,76,12,50,Medium,Medium,2,Medium,College,Medium,Negative
+73,88,30,62,Medium,Medium,4,Low,College,High,Positive
+68,85,18,89,Low,Medium,1,High,High School,Medium,Positive
+66,78,18,77,Low,Low,2,Medium,College,Medium,Neutral
+71,99,20,76,High,Low,2,Low,College,High,Neutral
+66,93,16,60,Low,Medium,1,Medium,High School,Medium,Positive
+61,65,14,63,High,Medium,2,Low,High School,Medium,Neutral
+70,92,17,79,Medium,Medium,1,Low,Postgraduate,Medium,Positive
+70,80,21,85,High,High,1,High,College,Low,Negative
+67,70,31,63,High,Low,1,Medium,High School,High,Neutral
+68,60,33,85,High,High,4,Low,High School,Low,Negative
+74,99,27,96,High,Medium,0,High,College,Low,Positive
+67,82,20,68,Medium,Low,2,Low,High School,Medium,Neutral
+73,95,23,94,Medium,Medium,2,Medium,High School,High,Neutral
+70,83,29,62,Medium,Low,4,High,College,Low,Negative
+68,86,18,88,Medium,Medium,2,Medium,College,Medium,Neutral
+64,60,23,72,Low,Medium,3,High,College,Low,Neutral
+65,67,19,91,Medium,Medium,1,Low,High School,Medium,Neutral
+63,65,19,60,Medium,High,1,Low,Postgraduate,Low,Neutral
+70,100,17,76,Medium,Medium,3,Low,Postgraduate,Low,Neutral
+71,99,16,57,High,Medium,4,Medium,College,High,Positive
+63,66,23,53,High,Low,2,Medium,College,Low,Positive
+65,83,22,53,Low,High,0,Low,Postgraduate,Medium,Negative
+69,92,19,68,Low,High,2,Medium,High School,Medium,Neutral
+64,67,12,77,Medium,High,2,Low,College,Medium,Positive
+71,91,21,53,High,Medium,1,Medium,Postgraduate,High,Positive
+70,81,24,64,Medium,High,2,High,High School,High,Positive
+62,60,17,97,Medium,Medium,1,Medium,College,Medium,Negative
+73,95,19,68,High,High,3,High,College,Medium,Positive
+70,87,17,68,High,High,1,Medium,High School,High,Positive
+96,93,18,76,Medium,Medium,2,Medium,High School,Low,Neutral
+73,96,31,67,Medium,Low,2,Medium,College,Medium,Neutral
+62,65,12,86,Medium,Low,1,Medium,Postgraduate,Medium,Positive
+65,90,19,51,Low,Low,1,Low,Postgraduate,High,Negative
+68,85,28,64,Medium,Medium,1,Low,High School,Low,Neutral
+63,76,4,90,Medium,Medium,2,High,High School,Medium,Positive
+69,97,17,56,Medium,Medium,2,High,High School,Low,Positive
+63,69,19,55,Medium,Medium,1,Low,College,Low,Positive
+65,67,23,88,Low,Medium,2,Medium,High School,Medium,Neutral
+62,72,20,89,Medium,Low,1,Low,High School,Low,Negative
+62,62,16,90,Low,Medium,2,High,Postgraduate,Low,Neutral
+64,73,17,62,Medium,High,2,Low,College,Low,Negative
+65,63,22,99,Medium,Medium,3,Medium,High School,Low,Neutral
+67,63,27,64,High,Medium,1,High,Postgraduate,Medium,Positive
+73,87,30,66,High,High,1,Medium,High School,Low,Neutral
+64,68,14,87,High,Low,2,Medium,High School,High,Positive
+70,94,14,83,Medium,Medium,2,Low,Postgraduate,High,Positive
+68,69,31,80,Medium,Low,4,Medium,College,Low,Negative
+66,64,19,86,High,Low,3,High,Postgraduate,Low,Neutral
+67,99,13,54,Low,Medium,3,High,High School,High,Negative
+71,72,33,83,High,Medium,3,Low,High School,Low,Neutral
+74,95,30,90,Medium,Medium,3,Medium,High School,Medium,Neutral
+60,61,15,52,High,Low,1,Medium,High School,Medium,Neutral
+68,76,28,75,Medium,Medium,0,Medium,High School,Low,Positive
+75,94,35,63,High,Medium,1,Low,College,Medium,Positive
+67,71,21,55,High,Medium,2,High,Postgraduate,Low,Positive
+60,62,7,90,Low,High,1,Medium,College,Medium,Neutral
+66,80,21,78,Medium,Low,0,Medium,Postgraduate,Medium,Negative
+70,99,18,86,Medium,Medium,1,High,High School,Medium,Neutral
+66,97,14,62,Low,High,1,Medium,Postgraduate,Medium,Neutral
+69,91,22,66,Medium,Medium,0,High,College,Medium,Negative
+69,98,19,73,Medium,Low,3,Low,College,Medium,Negative
+68,72,26,76,Medium,Medium,1,Medium,Postgraduate,Medium,Negative
+69,86,20,73,High,High,3,Low,High School,Medium,Neutral
+64,70,19,66,High,Low,1,High,College,Medium,Neutral
+71,91,22,85,High,Medium,2,Medium,High School,Low,Positive
+68,81,24,78,Medium,Medium,1,Low,High School,Medium,Positive
+69,98,12,68,Medium,High,3,Low,High School,Medium,Neutral
+64,73,22,77,Medium,Low,1,High,High School,Medium,Neutral
+66,95,8,73,Medium,Medium,2,Medium,College,Low,Neutral
+66,78,19,58,Medium,Medium,1,Low,Postgraduate,Medium,Neutral
+68,80,17,57,High,High,4,Low,College,Medium,Positive
+66,74,19,76,Medium,Medium,1,High,College,High,Neutral
+68,95,15,99,Low,Medium,0,High,High School,Low,Neutral
+65,64,22,65,Medium,Medium,2,Medium,Postgraduate,Low,Neutral
+64,65,19,93,Low,Medium,1,Medium,College,Low,Neutral
+69,83,22,80,Low,High,2,Medium,High School,Medium,Positive
+64,62,27,53,High,Medium,1,Medium,High School,Low,Positive
+66,68,26,63,Medium,Medium,2,Low,High School,Medium,Positive
+67,85,17,74,Medium,Medium,1,Medium,High School,Medium,Neutral
+68,94,15,84,Medium,Medium,0,Medium,High School,Medium,Positive
+67,85,19,98,Low,Low,2,Medium,High School,Medium,Neutral
+63,67,17,71,Medium,Medium,3,Medium,High School,Medium,Negative
+69,90,23,95,High,Medium,2,Low,High School,Low,Negative
+73,72,34,88,Medium,High,1,High,Postgraduate,Low,Positive
+65,77,19,90,Low,Medium,1,Low,College,Low,Neutral
+67,63,23,96,High,Medium,2,High,High School,Medium,Neutral
+64,78,15,73,Medium,Medium,0,High,College,Medium,Positive
+69,99,21,59,Medium,Low,1,High,College,Low,Negative
+65,73,25,79,Low,Medium,1,Low,High School,Medium,Neutral
+69,100,19,66,Medium,Low,1,High,Postgraduate,High,Negative
+66,74,19,68,Medium,High,2,Low,High School,Medium,Negative
+68,91,7,94,High,Medium,3,High,Postgraduate,High,Neutral
+68,77,22,68,Low,Medium,3,High,High School,Medium,Positive
+63,66,17,54,High,Medium,2,High,High School,Medium,Positive
+64,64,28,89,Low,Medium,0,Low,College,Medium,Neutral
+64,77,14,99,Low,Low,2,Medium,Postgraduate,Low,Positive
+68,78,23,94,High,Medium,1,High,High School,Medium,Neutral
+65,72,24,73,Low,Medium,1,Low,College,Low,Positive
+63,73,14,58,Medium,High,2,Low,College,Medium,Negative
+61,65,15,56,High,Low,3,High,High School,Medium,Positive
+69,91,21,79,Low,High,2,Low,College,Medium,Neutral
+71,96,18,92,Medium,High,2,Medium,High School,Medium,Positive
+61,69,13,70,Medium,Low,0,Medium,College,Medium,Negative
+69,68,26,62,Medium,Medium,4,Medium,Postgraduate,High,Neutral
+67,85,16,87,Medium,Medium,4,Low,High School,High,Negative
+64,65,19,55,High,Medium,1,Low,Postgraduate,Medium,Positive
+66,75,27,54,Medium,Low,2,Medium,Postgraduate,Low,Negative
+75,97,22,68,High,Medium,7,Medium,College,Low,Negative
+66,73,20,65,Medium,Low,2,High,College,Medium,Positive
+66,76,23,78,Low,Medium,2,High,High School,Low,Positive
+66,90,7,93,Low,Medium,4,Medium,College,Low,Neutral
+68,84,19,69,Medium,Medium,2,Medium,College,Medium,Neutral
+65,87,21,66,Low,Medium,1,Low,High School,Medium,Negative
+71,91,26,72,Low,Medium,4,High,College,Low,Neutral
+72,91,28,78,High,Medium,1,Medium,High School,Low,Positive
+63,63,23,79,Medium,Medium,0,Low,High School,High,Negative
+65,98,12,63,Low,Medium,0,High,High School,Medium,Neutral
+68,96,11,60,High,High,2,Low,High School,Medium,Neutral
+71,98,23,52,Medium,High,2,Low,High School,Low,Positive
+69,85,31,71,Medium,Medium,0,Medium,College,Low,Negative
+68,85,22,79,Medium,Medium,1,Low,High School,Low,Positive
+68,95,16,63,High,High,0,Medium,High School,Medium,Positive
+65,74,18,69,High,Medium,0,Low,High School,Medium,Positive
+66,74,33,64,Medium,Low,0,Medium,High School,Medium,Negative
+67,86,23,54,High,Medium,2,Medium,High School,Low,Negative
+66,79,17,84,Medium,High,0,Medium,High School,Medium,Neutral
+71,92,19,88,Medium,Medium,1,High,Postgraduate,Low,Positive
+68,68,22,96,High,Medium,1,Medium,Postgraduate,Medium,Positive
+70,92,22,74,Medium,Low,2,Medium,College,High,Positive
+68,85,22,79,Low,Medium,1,High,College,Medium,Positive
+72,93,23,53,High,High,1,Low,College,High,Neutral
+67,89,17,74,Medium,Medium,1,Low,Postgraduate,Medium,Positive
+69,83,17,98,High,Medium,0,Medium,High School,Medium,Positive
+72,98,30,61,Low,Medium,0,Low,Postgraduate,Medium,Positive
+67,87,15,91,High,Medium,1,Low,High School,Medium,Neutral
+66,87,20,60,Medium,High,0,Low,High School,Medium,Positive
+62,81,12,68,Low,Medium,0,Low,High School,High,Negative
+70,99,17,76,Medium,Medium,2,High,Postgraduate,Low,Positive
+63,66,13,51,High,Medium,3,Medium,Postgraduate,Low,Positive
+74,93,26,94,High,High,1,Medium,High School,Low,Negative
+67,84,19,63,Medium,Medium,1,High,High School,Medium,Positive
+68,79,24,99,Low,High,2,Low,High School,High,Negative
+64,69,21,59,Low,Medium,3,Low,Postgraduate,Medium,Neutral
+60,65,14,82,Low,High,1,Low,High School,Low,Negative
+70,80,29,90,Medium,Low,2,Medium,College,Medium,Positive
+65,67,23,50,Medium,Medium,4,Low,College,Low,Positive
+70,87,16,53,High,Medium,3,Medium,College,High,Neutral
+66,69,25,64,Medium,Medium,1,High,Postgraduate,Medium,Negative
+76,94,29,79,High,Medium,6,Low,College,Medium,Neutral
+72,92,20,93,Medium,Medium,3,High,College,Low,Positive
+70,75,30,95,Medium,Low,1,High,Postgraduate,Low,Negative
+69,98,9,58,High,High,2,Medium,College,Medium,Negative
+70,92,22,95,High,Low,0,Low,Postgraduate,Low,Positive
+68,86,26,95,Medium,Low,0,Low,High School,Medium,Negative
+63,61,20,78,Low,High,0,Low,High School,Medium,Positive
+64,62,22,87,Low,Medium,2,High,High School,Medium,Neutral
+64,83,4,99,High,Medium,1,Low,College,Low,Neutral
+67,86,22,82,Low,Medium,1,Low,College,Low,Positive
+74,89,19,92,Medium,High,5,Medium,Postgraduate,High,Positive
+63,70,17,75,High,Medium,1,Low,College,Medium,Neutral
+64,63,20,83,Medium,Low,4,Medium,Postgraduate,Low,Neutral
+70,77,27,86,Low,High,1,High,College,High,Negative
+69,85,19,74,Medium,High,1,High,College,Medium,Neutral
+64,83,16,62,Medium,Medium,0,Low,Postgraduate,Medium,Neutral
+66,75,19,77,Medium,High,1,Low,High School,Medium,Positive
+72,99,22,67,Medium,Medium,1,Medium,College,High,Negative
+72,92,17,93,High,High,4,Medium,College,Medium,Neutral
+69,76,18,95,Medium,Low,2,High,Postgraduate,High,Positive
+63,69,6,94,High,Medium,1,Medium,Postgraduate,Medium,Neutral
+61,71,17,53,Medium,Medium,0,Low,High School,Low,Positive
+73,89,23,58,High,High,2,Medium,Postgraduate,Medium,Positive
+69,95,21,57,Medium,High,1,Low,High School,Low,Positive
+67,86,13,59,Medium,High,3,Medium,High School,Medium,Neutral
+63,76,14,74,High,Medium,0,High,College,Low,Positive
+68,79,25,52,High,Medium,1,Medium,Postgraduate,Medium,Negative
+63,76,9,71,Medium,Medium,1,Medium,College,Medium,Neutral
+67,96,17,60,High,Medium,0,Low,College,Low,Neutral
+68,85,20,81,Medium,Low,1,High,College,Low,Positive
+68,68,23,86,High,Medium,0,Medium,Postgraduate,Medium,Positive
+69,90,20,83,Medium,Medium,1,Low,College,High,Positive
+69,89,21,51,High,Medium,1,Medium,High School,Low,Positive
+78,92,33,67,High,High,6,High,High School,Low,Positive
+68,76,23,96,Low,High,2,Medium,High School,Low,Neutral
+66,72,20,79,Medium,Low,1,Low,Postgraduate,Medium,Positive
+64,73,20,60,Medium,High,1,Low,High School,Medium,Positive
+66,73,15,60,Medium,Medium,3,Medium,College,High,Neutral
+67,90,17,84,Medium,High,1,Low,High School,Medium,Negative
+68,97,19,54,Medium,Low,0,High,High School,Medium,Neutral
+65,70,10,99,High,High,1,Medium,High School,Medium,Neutral
+71,89,22,58,Medium,High,4,High,College,Medium,Neutral
+65,67,19,59,Medium,Medium,3,Low,Postgraduate,Low,Positive
+66,82,14,96,High,Medium,2,High,High School,Low,Negative
+72,93,23,93,Low,High,1,Medium,High School,High,Negative
+66,73,21,56,Medium,Medium,5,High,High School,Medium,Neutral
+66,79,20,55,Medium,Low,3,Low,High School,Low,Positive
+64,69,20,99,Medium,Low,1,Medium,High School,High,Negative
+67,83,20,66,High,Low,1,High,College,Medium,Neutral
+65,67,10,92,High,Medium,1,Medium,Postgraduate,Medium,Negative
+64,64,21,82,Medium,Medium,2,Low,College,Medium,Neutral
+68,73,21,90,High,High,0,Medium,College,Medium,Neutral
+71,78,26,73,High,High,2,Low,College,Medium,Positive
+69,74,26,86,Medium,Medium,2,Low,College,Low,Positive
+64,67,26,77,Low,Medium,2,Low,High School,Low,Neutral
+68,92,15,69,Low,Medium,1,High,Postgraduate,Medium,Neutral
+94,98,25,90,Medium,Medium,1,High,Postgraduate,High,Neutral
+70,87,23,59,High,Low,4,Medium,High School,Medium,Neutral
+69,71,28,57,Medium,Medium,1,Low,Postgraduate,High,Neutral
+63,62,26,79,Low,Medium,1,Low,College,Medium,Positive
+62,60,15,66,Medium,Medium,2,High,High School,High,Neutral
+67,77,21,87,High,Medium,1,Low,College,Low,Neutral
+62,66,9,100,Low,Medium,3,Medium,College,Low,Neutral
+65,66,21,70,Medium,Medium,1,Low,High School,Medium,Positive
+69,71,29,86,Medium,Medium,1,Low,College,Medium,Positive
+65,69,22,86,High,Medium,0,Medium,High School,Low,Neutral
+71,81,28,96,Medium,Medium,2,Low,High School,High,Positive
+69,81,25,68,High,High,0,Low,College,Low,Neutral
+71,87,26,70,Medium,High,3,Medium,College,Low,Neutral
+69,95,22,59,High,Medium,2,Low,High School,Medium,Negative
+66,77,10,93,Low,High,3,Low,College,Medium,Positive
+71,85,23,99,Medium,Medium,1,Low,College,High,Neutral
+61,67,10,65,Medium,Medium,1,Medium,High School,Medium,Negative
+63,64,22,91,Low,Medium,0,Low,College,Low,Neutral
+71,95,24,77,Medium,High,1,Low,High School,Low,Positive
+68,93,22,67,Low,Medium,0,Medium,College,Medium,Neutral
+72,100,23,69,High,Low,0,Low,Postgraduate,Low,Positive
+68,80,27,65,Medium,Medium,1,High,College,High,Neutral
+68,86,22,67,Low,Medium,0,High,College,Medium,Positive
+65,82,19,67,Medium,Medium,0,Low,Postgraduate,Medium,Positive
+63,71,20,68,Low,Medium,1,Low,High School,Medium,Positive
+69,100,20,64,Medium,Medium,0,Low,High School,Medium,Neutral
+63,60,16,70,Medium,High,3,High,High School,Low,Negative
+62,61,18,56,Medium,Medium,3,Low,High School,Medium,Neutral
+70,93,25,53,Medium,Medium,0,High,College,Medium,Neutral
+67,85,17,66,High,Medium,1,High,Postgraduate,Medium,Neutral
+67,70,25,73,Low,High,2,Medium,Postgraduate,Medium,Neutral
+71,88,27,72,Medium,High,1,Low,High School,Medium,Positive
+66,89,14,96,Medium,Low,2,Low,College,Low,Neutral
+67,80,21,92,Medium,Medium,1,Medium,High School,Low,Positive
+64,64,23,59,Medium,Low,3,Low,High School,Medium,Positive
+73,98,18,92,High,Medium,2,Low,High School,Medium,Neutral
+63,60,28,70,Low,Medium,0,Low,High School,Low,Neutral
+64,61,28,82,Low,Low,0,Medium,College,Low,Positive
+66,75,24,85,Medium,Low,1,Low,Postgraduate,Medium,Positive
+70,98,29,60,Medium,Medium,0,Low,High School,Low,Negative
+73,99,27,69,Medium,Medium,2,Medium,Postgraduate,Medium,Positive
+65,99,3,68,Medium,Low,2,High,High School,Medium,Neutral
+65,67,25,95,Low,Medium,0,Medium,Postgraduate,Medium,Neutral
+71,86,28,96,Medium,Medium,2,Medium,High School,Medium,Neutral
+69,94,16,98,High,Medium,0,Low,High School,Medium,Neutral
+68,98,22,73,Medium,Low,1,Low,College,Medium,Negative
+69,82,16,99,Medium,Medium,3,High,High School,Medium,Positive
+58,70,3,58,Medium,Medium,0,Medium,High School,Medium,Neutral
+66,72,25,92,Medium,Medium,1,Low,High School,High,Negative
+66,81,12,64,Medium,Medium,2,High,High School,High,Neutral
+64,77,19,54,Medium,Low,2,Low,High School,Low,Positive
+66,77,24,52,Medium,Medium,0,Medium,High School,Medium,Negative
+62,67,18,73,High,Low,0,Medium,Postgraduate,Low,Neutral
+68,61,30,82,Low,High,2,Low,Postgraduate,Low,Neutral
+66,68,23,53,Medium,High,3,High,High School,High,Neutral
+68,99,14,89,Medium,Medium,0,Medium,Postgraduate,High,Positive
+71,74,25,80,High,Medium,4,Medium,College,Medium,Positive
+70,85,24,83,Medium,Medium,1,Medium,College,Low,Positive
+70,88,21,94,Medium,Medium,0,Medium,College,Medium,Neutral
+65,67,24,84,Low,High,0,Low,College,High,Neutral
+74,96,27,93,Medium,Medium,2,Medium,College,Medium,Neutral
+70,99,24,53,High,Medium,1,Low,High School,High,Neutral
+69,81,23,59,High,Low,2,High,Postgraduate,Medium,Neutral
+66,82,17,88,High,Medium,1,Medium,High School,Medium,Negative
+67,68,24,96,Medium,Medium,1,Low,High School,Medium,Positive
+73,87,23,96,High,High,1,Medium,College,High,Positive
+66,64,17,80,High,High,3,Medium,High School,Low,Positive
+71,98,11,82,High,High,1,Medium,Postgraduate,High,Neutral
+64,65,18,83,Medium,High,1,Medium,High School,Low,Neutral
+68,82,24,50,Medium,High,0,Medium,Postgraduate,Medium,Positive
+68,76,20,86,Medium,High,2,Medium,High School,Medium,Negative
+69,81,22,71,High,Medium,2,High,High School,Medium,Negative
+68,69,37,87,Medium,High,1,Low,College,Medium,Negative
+67,89,18,76,Medium,Low,0,Low,High School,High,Positive
+62,64,19,56,Medium,Medium,0,Low,High School,Medium,Neutral
+69,97,8,58,Medium,High,2,High,College,High,Neutral
+69,100,16,56,Medium,High,1,High,High School,Medium,Neutral
+69,80,24,85,Medium,Medium,3,Low,High School,Low,Positive
+64,69,21,63,High,Low,0,Medium,High School,Medium,Positive
+61,69,7,82,Low,Medium,1,Medium,Postgraduate,Low,Positive
+72,87,34,69,Medium,Low,3,Low,College,High,Neutral
+63,74,16,87,Medium,Low,0,Low,College,Medium,Positive
+68,89,21,76,Low,Medium,3,High,High School,Medium,Positive
+69,94,26,53,High,Low,0,Low,High School,Low,Neutral
+68,67,26,81,Low,High,4,Low,College,High,Neutral
+65,73,28,63,Low,Medium,0,Low,High School,Low,Positive
+65,67,15,94,Medium,High,1,Medium,High School,High,Positive
+63,73,17,59,Medium,Low,2,Low,High School,High,Negative
+67,72,24,61,High,High,3,Low,High School,Medium,Neutral
+63,69,26,84,Low,Low,0,Medium,High School,Medium,Neutral
+66,74,22,77,High,High,0,High,High School,Low,Negative
+72,97,18,95,High,Low,1,Medium,Postgraduate,High,Positive
+68,81,28,55,Medium,Medium,2,Medium,High School,Medium,Neutral
+67,78,22,69,Low,High,2,Low,High School,High,Negative
+66,68,17,75,Medium,High,2,Low,College,Medium,Positive
+61,74,7,66,Medium,Medium,1,Low,High School,Low,Positive
+68,78,27,98,Medium,Medium,1,Medium,High School,Low,Positive
+66,86,17,84,Low,Medium,0,Medium,High School,High,Neutral
+66,80,20,74,High,Low,2,Low,College,Medium,Negative
+66,80,20,65,Medium,Low,1,Medium,College,High,Positive
+67,74,23,57,Medium,High,1,High,College,Low,Neutral
+69,72,25,73,High,Low,4,Medium,College,High,Neutral
+67,83,22,66,Medium,Low,2,Medium,High School,Medium,Neutral
+67,68,26,70,High,Low,1,Low,College,Medium,Positive
+70,89,19,90,High,Medium,0,Low,College,High,Negative
+74,100,27,67,High,Medium,1,High,College,Medium,Neutral
+67,70,29,59,Medium,Low,2,Medium,Postgraduate,High,Neutral
+68,85,12,78,Medium,Medium,3,Medium,College,High,Neutral
+71,94,21,90,Medium,Low,1,Medium,Postgraduate,Low,Positive
+70,78,23,60,High,High,2,High,High School,Medium,Positive
+59,63,7,97,Low,Medium,1,Low,High School,Medium,Neutral
+70,77,23,94,Low,High,0,High,Postgraduate,Medium,Positive
+63,78,16,62,Low,High,0,High,High School,Medium,Negative
+66,72,20,80,High,Medium,1,Low,College,Medium,Negative
+72,84,24,93,High,High,3,High,High School,Medium,Neutral
+68,96,18,52,High,Low,1,Low,College,Low,Neutral
+62,60,19,94,Medium,Low,1,Low,High School,High,Neutral
+67,86,7,68,High,Medium,5,Low,Postgraduate,Medium,Positive
+74,97,34,60,Medium,Medium,2,Medium,High School,Medium,Neutral
+59,63,14,72,Low,Low,3,Low,High School,Medium,Positive
+66,69,28,66,Medium,Medium,0,Low,College,Medium,Positive
+70,88,23,70,Medium,Medium,2,Medium,High School,Medium,Neutral
+65,70,30,57,Medium,Medium,1,Low,College,Medium,Negative
+62,73,8,80,Medium,High,0,Low,College,Low,Neutral
+69,90,22,81,Low,Medium,0,Medium,High School,Medium,Neutral
+66,83,20,58,Low,High,0,Low,High School,Medium,Neutral
+69,99,13,83,High,Low,1,Medium,Postgraduate,Medium,Neutral
+64,90,11,59,Low,Low,1,Low,High School,Low,Positive
+69,86,21,72,High,Medium,0,High,High School,Medium,Positive
+63,81,20,61,Low,Medium,0,Low,High School,Low,Positive
+66,88,9,93,Low,Medium,2,Medium,Postgraduate,Low,Neutral
+68,81,25,86,Medium,Low,1,Low,Postgraduate,Medium,Negative
+66,78,20,89,Low,Medium,0,Medium,College,High,Neutral
+65,75,21,75,Medium,Low,1,Medium,High School,High,Negative
+62,73,11,58,Medium,High,0,Medium,College,Medium,Positive
+68,97,20,56,Medium,Medium,1,Low,High School,Low,Neutral
+65,82,11,63,High,Medium,1,Medium,High School,High,Neutral
+68,97,17,61,Medium,Medium,2,Low,High School,Low,Neutral
+69,76,23,98,Medium,High,0,Medium,Postgraduate,Medium,Neutral
+70,79,34,79,High,Low,3,Medium,High School,Low,Negative
+65,62,23,67,High,High,1,Low,Postgraduate,Low,Negative
+72,82,38,97,Medium,Low,2,Low,College,Low,Negative
+68,74,22,99,High,High,0,Low,College,Medium,Neutral
+65,69,20,59,Medium,Low,2,High,High School,Medium,Positive
+59,64,15,84,Low,Low,0,Medium,College,Low,Neutral
+63,74,12,55,Low,High,0,Medium,Postgraduate,High,Positive
+67,84,18,64,High,Low,2,Low,High School,Medium,Positive
+65,78,9,87,Low,High,0,Medium,Postgraduate,Medium,Positive
+69,82,26,79,High,Low,1,Medium,Postgraduate,Medium,Positive
+65,79,21,88,Low,Medium,0,Low,High School,Low,Negative
+71,99,14,86,High,Medium,2,High,College,Low,Negative
+72,98,26,90,High,Low,1,High,Postgraduate,Low,Positive
+58,60,15,63,High,Medium,0,Low,High School,Low,Positive
+65,79,19,57,Medium,Medium,2,Low,High School,Low,Positive
+69,80,22,63,Medium,High,1,High,College,Medium,Positive
+63,61,22,74,High,Low,1,Low,High School,Medium,Negative
+65,77,13,85,Low,High,2,Low,Postgraduate,Low,Neutral
+70,94,14,89,High,Medium,0,Medium,Postgraduate,Medium,Positive
+64,65,15,69,Medium,Medium,1,High,Postgraduate,Medium,Neutral
+66,81,14,64,Medium,Medium,2,Medium,College,Medium,Positive
+71,86,17,98,Medium,High,2,Low,Postgraduate,Medium,Positive
+65,70,15,85,High,High,0,Low,College,High,Positive
+67,99,15,75,Low,Medium,2,Medium,College,Low,Neutral
+69,74,27,71,Medium,High,1,Medium,High School,Medium,Positive
+69,82,22,79,High,High,2,Medium,College,Medium,Negative
+67,72,24,73,Low,High,2,Medium,High School,Low,Positive
+71,92,22,99,Medium,High,1,Medium,College,Low,Negative
+67,80,19,99,Low,Low,1,Low,Postgraduate,High,Positive
+69,80,21,79,Medium,Medium,2,Medium,College,Low,Positive
+64,64,18,76,Medium,High,1,Low,High School,Low,Positive
+67,70,19,92,Medium,High,1,Low,High School,Medium,Positive
+65,82,17,84,Medium,Low,2,Low,High School,High,Negative
+64,79,17,62,Low,High,1,Low,High School,Low,Neutral
+65,90,18,88,Low,Medium,1,Medium,High School,Low,Negative
+72,96,18,80,Medium,High,1,Low,College,High,Positive
+62,64,17,73,Medium,Low,1,Low,College,High,Neutral
+66,71,21,78,High,Medium,2,Medium,High School,Low,Neutral
+65,83,11,63,Medium,Medium,2,Low,College,Medium,Neutral
+69,93,18,80,Low,High,1,Medium,High School,Medium,Negative
+69,99,20,68,Medium,Low,1,Low,Postgraduate,Low,Positive
+72,92,23,100,Medium,High,1,High,College,Medium,Neutral
+69,80,24,99,Medium,High,2,Medium,High School,Low,Negative
+71,90,24,97,Low,Low,3,Low,High School,High,Positive
+66,91,15,50,Low,High,1,Medium,High School,High,Neutral
+63,70,12,81,Medium,High,0,Low,High School,High,Positive
+70,88,22,72,Medium,Medium,4,High,Postgraduate,Low,Negative
+74,90,21,76,High,High,2,High,College,High,Positive
+70,94,20,89,Medium,High,0,Medium,High School,Low,Positive
+67,92,16,58,High,Low,0,High,High School,Low,Positive
+65,72,17,96,Low,Medium,2,Low,High School,High,Neutral
+65,84,19,72,Medium,Low,1,Low,High School,High,Positive
+64,70,24,54,Medium,High,1,High,High School,Low,Neutral
+68,70,26,58,High,High,1,Low,Postgraduate,Medium,Positive
+68,86,15,66,High,Medium,0,Medium,College,Low,Positive
+74,99,21,91,High,Medium,3,Medium,College,Medium,Positive
+67,79,20,83,Medium,Medium,3,Low,College,Medium,Neutral
+65,76,16,79,Low,Medium,0,Low,Postgraduate,Medium,Positive
+67,99,12,66,Medium,Medium,3,Medium,Postgraduate,Low,Negative
+66,77,26,69,Medium,Low,1,High,High School,Low,Neutral
+66,76,21,64,Medium,Medium,1,Medium,High School,Low,Positive
+65,72,22,78,Low,High,1,Low,Postgraduate,Low,Neutral
+68,89,19,65,High,Medium,2,Low,Postgraduate,Low,Neutral
+67,74,23,76,High,High,1,Medium,College,Medium,Neutral
+64,79,18,74,Low,High,2,Low,High School,Low,Negative
+70,88,25,58,High,High,0,Low,Postgraduate,Low,Negative
+71,94,22,81,Low,High,2,Medium,High School,Medium,Neutral
+71,67,35,77,High,High,1,Low,College,Low,Positive
+67,93,13,51,Medium,High,1,Low,High School,Low,Neutral
+69,96,30,74,Medium,Low,0,Low,High School,High,Negative
+70,99,19,87,Medium,Low,1,Medium,High School,Low,Positive
+64,68,24,80,Low,Medium,1,Low,Postgraduate,Medium,Positive
+71,86,22,95,Medium,Medium,4,Medium,College,Medium,Positive
+67,83,17,96,Medium,Medium,1,Low,College,Medium,Positive
+72,99,16,100,Low,High,1,High,High School,High,Positive
+63,81,20,54,Low,Medium,0,Low,College,Low,Positive
+75,91,30,95,Medium,High,1,Medium,College,Low,Positive
+60,73,4,97,Low,Medium,1,Low,High School,High,Negative
+63,60,27,68,Medium,High,1,Medium,High School,High,Negative
+64,65,17,55,High,High,1,Medium,High School,Medium,Positive
+66,71,18,81,Medium,High,1,Low,High School,Medium,Positive
+65,68,19,66,High,High,2,Medium,High School,Medium,Neutral
+68,76,25,96,Medium,Low,3,Medium,High School,Medium,Positive
+68,86,26,67,Medium,Low,2,Low,High School,Medium,Positive
+70,93,18,76,Medium,High,3,Low,College,High,Negative
+62,70,14,51,Medium,Medium,1,Low,College,Low,Negative
+69,71,30,98,Low,High,2,High,High School,Low,Positive
+62,68,19,97,Low,High,0,Low,College,Low,Positive
+70,98,22,56,Low,Medium,1,High,College,High,Neutral
+66,93,16,65,Low,High,0,Medium,High School,Low,Negative
+66,83,15,83,Medium,Low,1,High,Postgraduate,Low,Neutral
+70,77,25,98,High,Medium,0,High,High School,Low,Positive
+67,93,17,87,Medium,Medium,1,Low,High School,Medium,Negative
+66,70,28,69,Medium,Medium,2,Low,High School,Medium,Positive
+67,91,10,51,High,High,0,Low,Postgraduate,Medium,Positive
+67,86,20,60,Medium,Medium,1,High,Postgraduate,Low,Neutral
+64,75,14,75,Medium,Medium,0,Low,High School,Medium,Neutral
+71,93,24,70,Medium,High,1,Medium,High School,Low,Neutral
+64,81,16,57,Low,Medium,3,Low,High School,High,Positive
+66,90,12,87,Medium,Low,2,Low,Postgraduate,Low,Neutral
+70,99,21,54,Medium,Medium,1,Low,College,High,Neutral
+71,92,22,65,High,High,0,Medium,High School,Medium,Positive
+71,97,20,81,Medium,Medium,3,Medium,College,Medium,Neutral
+60,73,12,82,Low,Medium,1,Low,High School,Medium,Positive
+65,67,20,53,Medium,High,1,Low,Postgraduate,High,Positive
+64,92,10,59,High,Low,0,Low,High School,High,Negative
+62,61,19,97,Medium,High,0,Medium,College,Low,Negative
+72,98,20,89,Medium,High,1,High,College,Medium,Positive
+67,89,14,59,Medium,Medium,1,Low,College,High,Neutral
+71,99,21,65,High,Medium,1,Medium,College,Low,Positive
+64,75,20,78,Medium,Medium,0,Low,College,Medium,Negative
+71,86,26,65,Medium,Low,2,High,Postgraduate,Medium,Neutral
+68,74,19,76,Medium,Medium,5,Medium,College,High,Neutral
+68,89,18,66,Medium,Medium,2,Medium,College,Medium,Positive
+67,65,28,77,Low,Medium,1,Low,College,High,Positive
+63,61,22,60,Medium,High,0,High,High School,High,Neutral
+62,77,14,54,High,Low,1,Medium,High School,Medium,Negative
+65,79,11,98,Medium,Medium,2,Low,High School,Medium,Neutral
+66,72,22,88,Low,High,2,Medium,High School,Medium,Positive
+67,87,20,56,Medium,Medium,2,Medium,College,Medium,Neutral
+66,74,20,91,Medium,Medium,1,Low,High School,Medium,Neutral
+67,85,14,89,Low,Medium,2,Medium,College,Medium,Positive
+68,66,25,91,Medium,High,2,Low,College,Medium,Neutral
+64,86,20,94,Low,Low,2,Low,High School,Low,Negative
+69,64,31,93,Medium,High,1,Low,High School,Medium,Neutral
+68,67,20,96,High,Medium,1,High,High School,High,Positive
+72,87,23,96,High,Medium,2,Medium,College,Medium,Positive
+71,95,24,66,High,Medium,2,High,High School,Low,Negative
+66,73,19,64,Medium,Medium,4,Medium,College,Low,Positive
+68,77,19,77,High,Medium,1,Low,College,High,Neutral
+66,72,23,66,Low,Medium,3,Low,Postgraduate,Low,Positive
+64,80,18,77,Low,Low,1,Low,College,Medium,Negative
+74,93,31,80,High,Medium,3,Medium,High School,Medium,Neutral
+64,64,27,51,Medium,Medium,1,Low,High School,High,Negative
+74,96,29,94,Medium,High,2,Low,High School,High,Negative
+70,91,21,66,Medium,High,3,Low,College,Low,Neutral
+69,92,15,67,High,Low,1,High,Postgraduate,Low,Positive
+65,78,15,77,High,Low,0,High,College,Low,Neutral
+64,62,20,98,Medium,Medium,1,High,High School,High,Negative
+65,76,16,90,Medium,Medium,0,Low,Postgraduate,Medium,Neutral
+72,99,19,53,High,High,1,Medium,College,Medium,Neutral
+65,96,7,50,High,Low,1,High,College,Medium,Negative
+70,99,17,86,Medium,Medium,1,Medium,College,Low,Positive
+65,80,14,56,High,Medium,1,Low,Postgraduate,Low,Positive
+62,62,7,74,High,Medium,3,Medium,Postgraduate,Medium,Neutral
+68,90,17,88,Low,High,1,Medium,College,Low,Negative
+71,94,27,77,Medium,Low,0,Medium,College,Medium,Positive
+66,79,22,59,High,Low,0,Medium,College,Medium,Positive
+63,68,14,51,High,High,1,High,High School,High,Neutral
+61,62,22,60,Low,Medium,0,Medium,College,Low,Positive
+68,72,22,62,Medium,High,5,High,College,Low,Neutral
+69,77,28,85,High,Medium,0,Low,Postgraduate,High,Negative
+62,74,11,68,High,Medium,0,Medium,High School,Low,Positive
+66,83,18,64,Medium,High,1,Medium,High School,Low,Negative
+66,63,26,76,Medium,Medium,3,Medium,High School,Medium,Neutral
+57,60,3,78,Medium,Low,1,Low,Postgraduate,Low,Positive
+70,86,19,81,Medium,Medium,3,Medium,College,Medium,Neutral
+63,67,9,54,Medium,High,3,Medium,College,Medium,Positive
+67,69,28,82,Medium,Medium,0,Medium,High School,High,Neutral
+65,76,21,99,Low,Low,0,Low,College,High,Positive
+72,99,30,54,Low,Medium,0,Medium,Postgraduate,Medium,Positive
+70,95,23,57,High,Medium,1,Low,High School,Medium,Neutral
+64,75,11,77,High,High,1,High,College,Medium,Neutral
+62,67,20,93,Medium,Medium,1,Low,College,Low,Negative
+64,62,25,61,Medium,Low,1,Medium,Postgraduate,High,Positive
+70,77,24,99,High,High,1,Low,High School,Medium,Positive
+63,65,15,55,Medium,High,2,Medium,High School,Low,Positive
+64,71,20,60,High,Medium,0,Medium,High School,Low,Neutral
+70,92,20,58,High,Medium,2,Low,Postgraduate,Low,Neutral
+65,79,16,67,Medium,Medium,2,Medium,College,Low,Positive
+75,100,30,75,High,High,0,Low,College,Medium,Neutral
+73,88,30,90,Low,Medium,4,High,College,High,Negative
+74,90,32,98,Medium,Medium,0,Medium,College,High,Neutral
+67,94,15,52,High,Medium,1,Medium,College,Low,Positive
+71,83,22,99,High,Medium,4,High,High School,Low,Negative
+64,75,23,68,Low,Low,1,High,High School,Medium,Neutral
+66,80,19,69,High,Medium,1,Low,College,Low,Neutral
+61,62,15,74,Medium,Medium,0,Low,Postgraduate,High,Negative
+64,62,20,91,High,Medium,1,Medium,College,Low,Negative
+72,84,35,86,Medium,Medium,1,Medium,High School,Medium,Neutral
+69,98,10,80,Medium,High,3,Medium,College,Low,Neutral
+72,87,23,93,Medium,Low,1,High,Postgraduate,Medium,Positive
+69,88,25,98,Low,Medium,1,Low,Postgraduate,Low,Neutral
+68,86,12,76,High,Medium,2,High,Postgraduate,Low,Positive
+69,80,26,86,High,Medium,0,Low,College,Medium,Positive
+75,99,34,53,Medium,Medium,0,Medium,College,Medium,Neutral
+64,68,15,67,Medium,Medium,3,Medium,Postgraduate,Medium,Negative
+71,91,17,85,Medium,High,3,Medium,College,High,Neutral
+65,76,19,78,High,Low,1,Low,Postgraduate,Low,Negative
+63,63,20,55,Medium,Medium,2,Low,High School,High,Negative
+61,62,13,86,Medium,Low,2,Low,High School,High,Neutral
+69,89,15,96,Medium,Medium,3,Low,High School,High,Negative
+66,74,23,76,Medium,Medium,1,Low,College,Medium,Positive
+71,90,26,81,Low,High,1,Low,Postgraduate,Medium,Neutral
+71,80,27,90,High,Medium,1,Medium,Postgraduate,Low,Neutral
+66,68,20,76,High,High,2,Medium,High School,Low,Neutral
+66,66,19,99,High,Low,1,Medium,College,Medium,Positive
+69,84,20,68,High,Medium,0,Low,Postgraduate,Medium,Positive
+65,70,18,86,Medium,Medium,1,High,High School,Medium,Positive
+70,73,31,68,Medium,High,1,Medium,High School,High,Positive
+64,71,15,68,High,Low,5,Low,College,Low,Positive
+67,84,14,51,High,Medium,4,High,High School,Low,Neutral
+66,90,12,61,Medium,Low,2,Low,High School,Medium,Positive
+67,94,11,94,Low,Low,2,Low,College,Medium,Positive
+67,93,12,59,Medium,High,2,Low,High School,Medium,Positive
+68,98,18,90,Low,Low,0,High,High School,Low,Positive
+66,74,20,69,High,Low,1,Medium,College,High,Positive
+67,69,28,93,Low,High,0,High,College,Low,Negative
+72,99,11,89,High,Medium,3,Low,College,High,Positive
+77,93,34,93,High,Medium,2,Low,High School,High,Neutral
+71,82,31,98,Medium,High,0,Low,High School,Medium,Neutral
+69,100,21,58,Medium,Medium,2,Medium,High School,Medium,Neutral
+69,100,16,65,Medium,Medium,1,High,College,High,Positive
+72,88,31,83,Medium,High,0,Low,High School,Medium,Neutral
+68,79,19,85,High,High,0,Medium,High School,Medium,Positive
+69,81,26,98,High,Medium,1,Medium,High School,Low,Neutral
+66,73,16,75,Medium,Medium,3,Medium,High School,High,Positive
+62,71,20,70,Low,Medium,0,Medium,High School,Medium,Neutral
+65,65,22,91,High,Low,2,High,College,Medium,Negative
+69,84,16,93,Medium,High,0,High,High School,Medium,Positive
+66,67,23,97,Medium,Low,1,Medium,College,Medium,Positive
+67,76,24,55,High,Medium,2,Low,High School,Low,Positive
+65,81,17,64,High,Medium,0,High,High School,Medium,Positive
+68,93,21,67,Medium,Low,2,Low,College,High,Neutral
+64,87,20,56,Low,Low,1,High,College,Medium,Negative
+67,94,18,51,Medium,Medium,0,High,College,Medium,Positive
+68,82,21,95,Medium,Medium,3,Low,High School,Medium,Positive
+64,66,25,71,Medium,High,0,Medium,High School,High,Negative
+68,82,19,95,Low,High,2,Low,Postgraduate,Medium,Neutral
+65,76,20,94,Medium,Medium,2,Low,High School,Low,Neutral
+64,64,26,53,Low,High,2,Low,College,Medium,Negative
+63,61,16,86,Medium,Low,3,Medium,High School,Medium,Positive
+71,91,24,72,Medium,Medium,3,Medium,High School,Medium,Neutral
+68,93,19,84,Medium,Medium,0,Medium,College,High,Neutral
+63,68,11,85,Medium,High,2,Medium,College,High,Negative
+61,65,15,51,Medium,Low,1,High,High School,Medium,Positive
+65,68,20,80,Low,Medium,4,Low,College,Low,Neutral
+66,71,26,91,Medium,Medium,2,Low,High School,Medium,Neutral
+71,83,24,52,High,Medium,1,Medium,College,High,Positive
+66,81,17,78,Low,Medium,1,Low,College,Low,Positive
+98,96,28,98,High,Low,1,High,High School,High,Positive
+68,77,24,65,Medium,Low,2,Medium,High School,High,Positive
+60,65,8,83,Medium,Medium,3,Medium,High School,Low,Negative
+68,68,27,70,High,Medium,0,Medium,Postgraduate,High,Positive
+69,78,28,86,High,Medium,0,Low,College,Low,Neutral
+75,91,31,94,Medium,High,2,High,High School,High,Negative
+66,76,28,67,Low,Low,1,High,College,High,Negative
+71,99,20,80,Low,Medium,0,Medium,Postgraduate,High,Negative
+66,81,19,85,Medium,Medium,1,Low,High School,Medium,Neutral
+72,98,20,80,Low,Medium,4,Medium,College,Low,Positive
+69,90,21,61,Medium,Medium,1,High,Postgraduate,Medium,Positive
+69,97,11,76,Medium,Medium,2,Medium,High School,High,Positive
+66,82,16,91,Medium,Medium,0,Low,High School,Medium,Positive
+70,99,19,79,Low,Medium,2,Low,Postgraduate,Medium,Neutral
+69,79,15,88,High,Medium,3,High,Postgraduate,Medium,Neutral
+68,61,28,92,High,Medium,1,Medium,College,Low,Neutral
+69,81,17,95,High,Medium,2,Medium,High School,High,Positive
+66,73,16,65,High,High,1,Medium,College,Low,Positive
+64,83,16,63,Low,Medium,2,High,High School,Low,Positive
+65,76,21,80,Low,Medium,3,Low,College,High,Negative
+69,90,19,81,Low,High,2,Medium,High School,Medium,Positive
+66,68,24,84,High,Low,1,Low,High School,Medium,Positive
+64,62,24,95,Low,Medium,1,High,College,Medium,Positive
+64,77,22,66,Low,Low,2,Low,College,Medium,Positive
+68,90,18,52,High,Medium,5,Medium,High School,Low,Positive
+72,96,22,72,Medium,Medium,1,High,College,Low,Positive
+72,81,28,90,Medium,High,3,Medium,High School,High,Negative
+67,77,29,68,Medium,Low,1,Medium,High School,High,Positive
+66,65,29,92,Low,Medium,0,Medium,High School,Medium,Positive
+68,82,20,94,Medium,Medium,3,Low,High School,Medium,Positive
+68,76,27,58,Medium,Medium,1,Medium,College,Medium,Positive
+64,65,17,61,Medium,Medium,5,Low,High School,Medium,Positive
+65,77,14,55,Medium,Medium,2,High,High School,High,Neutral
+64,65,22,64,Medium,Medium,1,Medium,High School,High,Negative
+64,63,20,86,Medium,Medium,0,High,College,Low,Neutral
+71,98,18,62,High,Medium,3,Medium,High School,Low,Positive
+68,91,11,100,High,Low,4,Low,Postgraduate,Low,Negative
+70,94,15,77,Medium,Medium,3,High,College,Low,Neutral
+73,95,33,77,Low,Low,2,High,High School,Low,Positive
+62,77,16,54,Medium,Low,0,Medium,Postgraduate,Medium,Negative
+66,62,30,97,Low,Low,0,High,College,Medium,Neutral
+70,82,29,84,Medium,High,1,Low,High School,Low,Positive
+67,68,18,52,High,High,0,High,College,High,Positive
+66,70,19,95,Medium,Medium,0,Medium,College,High,Positive
+72,100,29,100,Medium,Low,0,Low,High School,Low,Neutral
+64,87,9,64,Low,Medium,1,High,High School,Medium,Neutral
